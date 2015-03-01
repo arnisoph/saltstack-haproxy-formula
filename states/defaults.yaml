@@ -1,0 +1,8 @@
+kernel:
+  Linux:
+    system: Global default
+os_family:
+  Debian:
+    system: Debian family
+  RedHat:
+    system: RedHat family
